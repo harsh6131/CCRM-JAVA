@@ -1,0 +1,14 @@
+# IntelliJ project files
+.idea/
+*.iml
+
+# Build output
+bin/
+out/
+*.class
+
+# macOS system files
+.DS_Store
+
+# Logs & temp
+*.log
