@@ -318,11 +318,11 @@ When you run the application, you'll experience:
 ## Screenshots
 
 ### Application Screenshots
-![Main Menu](screenshots/Main%20Menu%20showing.png)
+![Main Menu](screenshots/main.png)
 
 *Figure 4: Main application menu showing all available operations*
 
-![Student Management](screenshots/student%20management.png)
+![Student Management](screenshots/student-management.png)
 
 *Figure 5: Student management interface with CRUD operations*
 
