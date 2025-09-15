@@ -318,11 +318,11 @@ When you run the application, you'll experience:
 ## Screenshots
 
 ### Application Screenshots
-![Main Menu](screenshots/Main Menu showing.png)
+![Main Menu](screenshots/Main%20Menu%20showing.png)
 
 *Figure 4: Main application menu showing all available operations*
 
-![Student Management](screenshots/student management.png)
+![Student Management](screenshots/student%20management.png)
 
 *Figure 5: Student management interface with CRUD operations*
 
@@ -336,7 +336,7 @@ When you run the application, you'll experience:
 
 *Figure 6: File import/export functionality*
 
-![Backup Structure](screenshots/backup folder.png)
+![Backup Structure](screenshots/backup-folder.png)
 
 *Figure 7: Generated backup folder with timestamped organization*
 
